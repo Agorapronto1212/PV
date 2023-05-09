@@ -1,0 +1,6 @@
+config.yamlem 
+services:
+  openai:
+    apiKey: (your api key)
+  elevenlabs:
+    apiKey: (your api key)
